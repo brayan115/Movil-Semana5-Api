@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "469D8F63-084A-49FA-96B2-B2FCA7749C21"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AE593C8-C0C6-4CC4-B43B-07C9534E6CF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "api-semana5/ViewModel/ViewModelModeloPost.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "refreshData"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8AE593C8-C0C6-4CC4-B43B-07C9534E6CF5 - 5887e2a1859a93d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in variable initialization expression of api_semana5.ViewModelModeloPost.refreshData : () -&gt; ()"
+                  moduleName = "api-semana5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbtec22/Documents/api-semana5/api-semana5/ViewModel/ViewModelModeloPost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "8AE593C8-C0C6-4CC4-B43B-07C9534E6CF5 - ee230bbc8acbf5c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "api_semana5.ViewModelModeloPost.init() -&gt; api_semana5.ViewModelModeloPost"
+                  moduleName = "api-semana5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbtec22/Documents/api-semana5/api-semana5/ViewModel/ViewModelModeloPost.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
